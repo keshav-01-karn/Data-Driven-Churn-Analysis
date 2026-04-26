@@ -24,9 +24,14 @@ Acquiring new customers is 5-25x more expensive than retaining existing ones. Th
 - Includes customer demographics, service usage, billing information, and churn status  
 
 ---
+##  Visual Highlights
 
 
+###  Churn by Contract Type
+![Churn by Contract](https://github.com/keshav-01-karn/Data-Driven-Churn-Analysis/blob/main/Churn%20Distribution%20by%20Contract%20Type.png)
 
+###  Churn vs Tenure
+![Churn vs Tenure](https://github.com/keshav-01-karn/Data-Driven-Churn-Analysis/blob/main/Tenure%20vs%20Churn.png)
 ##  Key Insights
 
 ###  1. Tenure is a Strong Predictor of Churn
