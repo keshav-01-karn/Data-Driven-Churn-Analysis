@@ -12,7 +12,7 @@ Acquiring new customers is 5-25x more expensive than retaining existing ones. Th
 
 ---
 
-## 🛠 Tech Stack & Methodology
+##  Tech Stack & Methodology
 * **Data Manipulation:** `Pandas`, `NumPy` (Feature engineering, missing value imputation).
 * **Visualization:** `Matplotlib`, `Seaborn` (Correlation heatmaps, distribution plots).
 * **Advanced Analytics:** Entropy-based variability analysis and skewness checks for distribution normality.
